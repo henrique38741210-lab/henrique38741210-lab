@@ -51,14 +51,6 @@ English for reading, writing and speaking (Advanced).
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=henriquesantos&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
